@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 产品编码 文档的项目名称
+   :caption: KS0470 4WD BT Multi-purpose Car V2.0 Kit 
 
    README.md
    docs/1. Product introduction/1. Product introduction
